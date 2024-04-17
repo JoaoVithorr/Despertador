@@ -1,4 +1,4 @@
-# Despertador
+### Despertador
 Um simples despertador usando as bibliotecas:
 * pygame
 * tikinter
